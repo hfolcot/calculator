@@ -1,0 +1,11 @@
+body .container-fluid {
+  height: 100vh;
+}
+body .container-fluid #display {
+  height: 50px;
+  border: 1px solid black;
+  text-align: right;
+}
+body .container-fluid .btn {
+  border: 1px solid darkgray;
+}
